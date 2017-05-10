@@ -21,7 +21,7 @@ git pull --rebase origin master
 
 ```
 
-####1.创建版本库
+#### 1.创建版本库
 	pwd:显示当前目录
 	git init:将目录变成管理仓库(.git,使用 ls -ah查看)
 	1.将文件添加到版本库（repository）
